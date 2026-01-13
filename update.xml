@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <!-- Versión actual disponible (cambiar cuando publiques nueva versión) -->
+    <version>1.0.0.0</version>
+
+    <!-- URL del ZIP en GitHub Releases (siempre apunta al último release) -->
+    <url>https://github.com/luisarz/ReporteDTE-Updates/releases/latest/download/ReporteDTE.zip</url>
+
+    <!-- Changelog (opcional) -->
+    <changelog>https://github.com/luisarz/ReporteDTE-Updates/releases/latest</changelog>
+
+    <!-- false = el usuario puede ignorar, true = forzar actualización -->
+    <mandatory>false</mandatory>
+</item>
