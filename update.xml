@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <!-- Versión disponible (mayor que 93.0.0 para simular actualización) -->
-    <version>94.0.0</version>
+    <!-- Versión 95 para simular actualización -->
+    <version>95.0.0</version>
 
     <!-- URL del ZIP en GitHub Releases -->
     <url>https://github.com/luisarz/ReporteDTE-Updates/releases/latest/download/ReporteDTE.zip</url>
